@@ -65,7 +65,7 @@ Geral:
 ## 
 ## Demonstração
 
-Link de demonstração: [Aqui](#)
+Link de demonstração: [Aqui](https://projetcpokemons.netlify.app/)
 
 ## 
 ### **Tecnologias Utilizadas**
@@ -87,7 +87,7 @@ Link de demonstração: [Aqui](#)
 git clone https://github.com/celio-cleiton/projeto-pokemon-api
 
 ## Acesse a pasta do seu projeto no seu terminal
-cd Projeto-Pokemon-03
+cd projeto-pokemon-api
 
 ## Instale as dependências
 npm install
